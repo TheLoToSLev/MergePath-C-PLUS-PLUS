@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MergePath_C_PLUS_PLUS",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MergePath_C_PLUS_PLUS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MergePath_C_PLUS_PLUS-Debug-c00b4675962a56757369.json",
+					"name" : "MergePath_C_PLUS_PLUS",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/levdenisov/Desktop/CLionProjects/MyCode/University/3_sem/MergePath-C-PLUS-PLUS/cmake-build-debug",
+		"source" : "/Users/levdenisov/Desktop/CLionProjects/MyCode/University/3_sem/MergePath-C-PLUS-PLUS"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
